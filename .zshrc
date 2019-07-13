@@ -99,3 +99,6 @@ zsh-autosuggestions
 zsh-syntax-highlighting
 )
 source $ZSH/oh-my-zsh.sh
+
+# 修改tmux中vim的配色方案
+alias tmux="TERM=screen-256color-bce tmux -2"

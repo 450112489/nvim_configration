@@ -1,10 +1,10 @@
-#by jinyanming 
+#by zhaojunjie 
 
 ## A Rapid Installation Mode
 
 1.Clone this repo:
 ```sh
-git clone https://github.com/MiseryForMe/nvim_configration.git
+git clone https://github.com/450112489/nvim_configration.git
 ```
 
 
