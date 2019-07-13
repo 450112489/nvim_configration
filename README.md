@@ -34,8 +34,3 @@ After all the four steps above finished,Please exit your server and reconnect yo
 Tools including nvim zsh tmux and several needed plugs will be installed automaticly  
 The rest thing you have to do is to use it and work on it.  
 
-
-
-PS:  
-    The prefix of tmux is modified by me as Ctrl+x
-
